@@ -21,4 +21,4 @@ run  `npm -v` in the command line - It will show the current version if installe
 
 *Now each time you save your changes in your editor the website will automatically reload*
 
-***REMEMBER to delete the .git file after you have cloned this repository and initialize your own respository!!!!!***
+***REMEMBER to delete the .git folder after you have cloned this repository and initialize your own respository!!!!!***
