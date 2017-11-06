@@ -1,7 +1,7 @@
 # basic-node-server
 Basic node server for simple web development
 
-- Go to https://nodejs.org/en/  and install NodeJS (it will also install NPM) 
+- Go to https://nodejs.org/en/  and install NodeJS LTS Recommended version (it will also install NPM) 
 
 - Check if Node is installed: 
 
